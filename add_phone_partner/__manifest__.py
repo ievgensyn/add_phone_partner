@@ -7,7 +7,7 @@
     'author': 'Kitworks Systems',
     'website': 'https://kitworks.systems/',
 
-    'version': '12.0.0.0.1',
+    'version': '13.0.0.0.1',
     'depends': ['base', 'contacts', ],
 
     'data': [
